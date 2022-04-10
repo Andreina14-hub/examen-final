@@ -2,5 +2,13 @@
 
 body {
 	font-family: 'Roboto', 'Roboto-thin', 'Roboto-light', sans-serif, ;
-	background-color: red;
+}
+.bg-p{
+	 background-color:#f56668 ;
+}
+.rob-light{
+	font-weight: 200;
+}
+.li-h{
+	line-height: 2;
 }
