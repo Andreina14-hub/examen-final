@@ -7,7 +7,6 @@ body {
   border-bottom: 1px solid #f8f9fa;
 }
 .psz {
-  width: 50%;
   font-size: 1em;
 }
 h1 {
@@ -15,7 +14,6 @@ h1 {
   border-top: 1px solid #f8f9fa;
 }
 h2 {
-  width: 50%;
   border-top: 1px solid #000;
 }
 .lib {
@@ -24,9 +22,15 @@ h2 {
 .bg-p {
   background-color: #f56668;
 }
+.bbc{
+	border-bottom:3px solid #f56668 ;
+}
 .li-h {
-	font-size: 1.2em;
+	font-size: 0.9em;
   line-height: 2;
+}
+.hero p{
+	font-size: 1.2em;
 }
 .bg-bttn {
   background-color: #c8c57e;
